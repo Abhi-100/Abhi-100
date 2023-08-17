@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhi-100
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on C++ and Cloud projects
+- 👋 Hi, Abhishek here.(Abhishek Gupta if you are more interested)
+- 👀 I’m interested in Python and Java.
+- 🌱 I’m currently learning data structures & algorithms.
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me on LinkedIn: [Abhishek Gupta](https://www.linkedin.com/in/abhishek-gupta-1a9623193/)
 
 <!---
